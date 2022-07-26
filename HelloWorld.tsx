@@ -59,7 +59,7 @@ export function unstable_toMatchRenderedOutput(root, expectedJSX) {
           $$typeof: REACT_ELEMENT_TYPE,
           type: REACT_FRAGMENT_TYPE,
           key: null,
-          ref: null,
+          ref: string,
           props: {
             children: actualJSXChildren,
           },
